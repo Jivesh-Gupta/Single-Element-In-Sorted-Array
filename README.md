@@ -6,7 +6,7 @@ It uses a **modified binary search** approach to achieve **O(log n)** time compl
 
 ---
 
-## ⚙️ How It W orks
+## ⚙️ How It Works
 The algorithm works as follows:
 1. Uses binary search to find the **unique element** in the array.
 2. Checks special cases:
@@ -18,11 +18,5 @@ The algorithm works as follows:
 
 ---
 
-## 🧪 Example
+## 📂 File Structure
 
-### 🔸 Input:
-A sorted array where every element appears twice except one:
-```cpp
-vector<int> nums = {1, 1, 2, 3, 3, 4, 4, 5, 5};
-
----
