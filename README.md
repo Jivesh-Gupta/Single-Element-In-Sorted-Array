@@ -17,6 +17,3 @@ The algorithm works as follows:
    - Otherwise, decide whether to search in the left or right half based on the **index parity** (even/odd) and matching pairs.
 
 ---
-
-## 📂 File Structure
-
